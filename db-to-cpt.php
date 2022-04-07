@@ -2,7 +2,7 @@
 /**
  * Plugin Name: DB to posttype
  * Plugin URI: https://wpxforce.com
- * Author: TechiePress
+ * Author: Muneeb Abdul Rauf
  * Author URI: https://wpxforce.com
  * Description: Move stuff from the custom table to CPTs
  * Version: 0.1.0
