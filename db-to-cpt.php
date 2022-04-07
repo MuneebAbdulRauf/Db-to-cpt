@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: DB to posttype
+ * Plugin Name: DB to Custom Post Type
  * Plugin URI: https://wpxforce.com
  * Author: Muneeb Abdul Rauf
  * Author URI: https://wpxforce.com
